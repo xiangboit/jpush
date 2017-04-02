@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/Redis/utils=GBK
+encoding//src/Redis/utils/JRedisPoolConfig.java=GBk
+encoding//src/Redis/utils/JedisUtils.java=GBK
+encoding//src/com/push/RedisTopicListener.java=GBK
+encoding//src/com/push/ReverseAjaxServlet.java=GBk
+encoding/<project>=GBK
+encoding/src=UTF-8
